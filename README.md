@@ -12,5 +12,5 @@ ShadeCode comes in two verions. Version 1 is a colder theme with blue, green and
 ## Licensing
 Copyright &copy; 2019-2021 Shadew. All rights reserved.
 
-You may share, modify and redistribute these color schemes in any way preferred, but not without credit to the original author or another license. Use is entirely your own risk, unless required by applicable law. The original author is in no way responsible for any problems caused by using these color schemes.
-You may copy or convert these color schemes for use in other IDEs or any other code highlighting context, as long as the original author of the (IntelliJ) color schemes is credited.
+You may share, modify and redistribute these color schemes in any way preferred, but not without credit to the original author, nor with a different license. Use is entirely your own risk, unless required by applicable law. The original author is in no way responsible for any problems caused by using these color schemes.
+You may copy or convert these color schemes for use in other IDEs or any other code highlighting context, as long as the original author of the (IntelliJ) color schemes is credited and the same license applies.
